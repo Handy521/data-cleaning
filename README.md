@@ -1,7 +1,7 @@
 # data-cleaning
 通过vgg提取特征向量，计算余弦相似度
 
-https://github.com/Handy521/data-cleaning/raw/master/20171212173604240.png
+https://github.com/Handy521/data-cleaning/blob/master/20171212173604240.png?raw=ture
 
       
 
