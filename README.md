@@ -5,7 +5,7 @@ https://github.com/Handy521/data-cleaning/blob/master/20171212173604240.png?raw=
 
 https://github.com/Handy521/data-cleaning/blob/master/20171212173604240.png?raw=ture
 
-![Image text](https://raw.github.com/Handy521/data-cleaning/blob/master/20171212173604240.png)
+![Image text](https://github.com/Handy521/data-cleaning/blob/master/20171212173604240.png?raw=true)
 
       
 
