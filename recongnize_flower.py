@@ -50,6 +50,6 @@ class PlantRecognizer(object):
         result = rp_json['result']
         print(result)
 if __name__ == '__main__':
-    recognizer = PlantRecognizer(api_key='G5Vq7N0GGTBGK5C3vk4BV2N7', secret_key='2NqvsFtbsgY9277QTInKXWVxyDw46Ri6')
+    recognizer = PlantRecognizer(api_key='', secret_key='')
     img = '/home/shinong/Desktop/1_9/good.png'
     recognizer.detect(img)
